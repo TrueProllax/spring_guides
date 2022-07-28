@@ -1,1 +1,1 @@
-# spring_guides
+Источник уроков: https://spring-projects.ru/guides/
