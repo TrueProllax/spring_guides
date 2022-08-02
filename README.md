@@ -4,8 +4,8 @@
 ## Spring
 
 - [X] 1. Spring 01 Создание RESTful Web-сервиса [Guid](https://spring-projects.ru/guides/rest-service/) [GitHub]
-
 - [X] 2. Spring 02 Выполнение задач по расписанию [Guid](https://spring-projects.ru/guides/scheduling-tasks/)
+// Приложение, которое печатает текущее время каждые пять секунд при помощи использования Spring-аннотации @Scheduled
 - [ ] 3. Spring 03 Определение устройства [Guid](https://spring-projects.ru/guides/device-detection/)
 - [X] 4. Spring 04 Взаимодействие с RESTful Web-сервисом [Guid](https://spring-projects.ru/guides/consuming-rest/)
 - [ ] 5. Spring 05 
