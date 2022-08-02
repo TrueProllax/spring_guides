@@ -12,7 +12,3 @@
 - [ ] 5. Spring 05 
 
 ----
-## Gradle
-
-- [ ] 1. Gradle 01 Сборка Java-проекта с использованием Gradle [Guid](https://spring-projects.ru/guides/gradle/) 
-- Этот урок освещает создание простого Java-приложения с использованием Gradle.
