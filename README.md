@@ -8,6 +8,7 @@
 - Приложение, которое печатает текущее время каждые пять секунд при помощи использования Spring-аннотации @Scheduled
 - [ ] 3. Spring 03 Определение устройства [Guid](https://spring-projects.ru/guides/device-detection/)
 - [X] 4. Spring 04 Взаимодействие с RESTful Web-сервисом [Guid](https://spring-projects.ru/guides/consuming-rest/)
+- Приложение, которое использует Spring RestTemplate для получения информации с API news
 - [ ] 5. Spring 05 
 
 ----
