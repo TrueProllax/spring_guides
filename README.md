@@ -9,6 +9,6 @@
 - [ ] 3. Spring 03 Определение устройства [Guid](https://spring-projects.ru/guides/device-detection/)
 - [X] 4. Spring 04 Взаимодействие с RESTful Web-сервисом [Guid](https://spring-projects.ru/guides/consuming-rest/)
 - Приложение, которое использует Spring RestTemplate для получения информации с API news
-- [ ] 5. Spring 05 
+- [X] 5. Spring 05 Доступ к данным с использованием JDBC c Spring. JdbcTemplate [Guid](https://spring.io/guides/gs/relational-data-access/#initial), [H2 Database](https://www.baeldung.com/spring-boot-h2-database)
 
 ----
