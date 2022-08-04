@@ -10,5 +10,6 @@
 - [X] 4. Spring 04 Взаимодействие с RESTful Web-сервисом [Guid](https://spring-projects.ru/guides/consuming-rest/)
 - Приложение, которое использует Spring RestTemplate для получения информации с API news
 - [X] 5. Spring 05 Доступ к данным с использованием JDBC c Spring. JdbcTemplate [Guid](https://spring.io/guides/gs/relational-data-access/#initial), [H2 Database](https://www.baeldung.com/spring-boot-h2-database)
+- [X] 6. Spring 06 Загрузка файлов. [Guid](https://spring.io/guides/gs/uploading-files/)
 
 ----
